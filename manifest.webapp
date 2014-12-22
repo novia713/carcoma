@@ -9,8 +9,12 @@
     "128": "/icns/radiocarcoma-128.png"
   },
   "developer": {
-    "name": "novia713"
+    "name": "novia713",
+    "url": "https://github.com/novia713/carcoma"
   },
-  "default_locale": "es"
+  "default_locale": "es",
+  "permissions": {
+    "audio-channel-content":{"description":  "Use the audio channel for a music player"}
+  }
 }
 
